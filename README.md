@@ -61,8 +61,8 @@
       <br>Bootstrap
     </td>
   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="62" height="62" />
-      <br>Java
+<!--         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="62" height="62" />
+      <br>Java -->
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
