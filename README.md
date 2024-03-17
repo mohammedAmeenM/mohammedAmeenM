@@ -1,6 +1,6 @@
 <h1 align='center'>👋 Hi, I’m Mohammed Ameen M </h1>
 <h1 align='center'>A Passionate fullstack developer</h1>
-<a href="[https://www.instagram.com/mohd__jasir_?igsh=MTExYnB3eGxweHlhNw%3D%3D&utm_source=qr](https://www.instagram.com/amiiiiiii.___/)">
+<a href="https://www.instagram.com/amiiiiiii.___/">
     <img src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-512.png" 
          alt="Instagram Logo" 
          width="65" 
@@ -60,7 +60,7 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
-  <td align="center" width="96">
+<!--   <td align="center" width="96"> -->
 <!--         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="62" height="62" />
       <br>Java -->
     <td align="center" width="96">
