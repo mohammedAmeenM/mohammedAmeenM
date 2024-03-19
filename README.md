@@ -93,29 +93,29 @@
       <br>Material Ui
     </td> -->
   </tr>
-<!--  <tr>
+ <tr>
       <td align="center" width="96">
        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
       <br>Postman
     </td>
-      <td align="center" width="96">
+<!--       <td align="center" width="96">
        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
       <br>Figma
+    </td> -->
     </td>
-    </td>
-      <td align="center" width="96">
+<!--       <td align="center" width="96">
        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
       <br>SQLite
+    </td> -->
     </td>
     </td>
-    </td>
-      <td align="center" width="96">
+<!--       <td align="center" width="96">
        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="62" height="62" />
       <br>Prettier
-    </td>
+    </td> -->
    <td align="center" width="96">
-       <img src="https://github.com/THOUSI731/THOUSI731/assets/119723781/b7ea9dae-7907-48b2-a3fb-0673f4eff363" alt="icon" width="62" height="62"  />
-      <br>Swagger API
+       <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="62" height="62"  />
+      <br>node js
     </td>
     </td>
       <td align="center" width="96">
@@ -126,10 +126,10 @@
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="62" height="62" />
       <br>REST API
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
-    </td>
- </tr> -->
+    </td> -->
+ </tr>
 </table>
 <br><br>
