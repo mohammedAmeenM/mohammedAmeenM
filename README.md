@@ -6,7 +6,7 @@
          width="65" 
          height="65">
 </a>
-<img src='https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif'/>
+
 
 - 👀 I’m interested in  playing games and web development. That's a great combination of interests!
 - 🌱 I’m currently learning something specific or have any projects in mind related to web development or gaming, feel free to share more details
@@ -75,7 +75,7 @@
       <br>Bootstrap
     </td> 
       <td align="center" width="96">
-       <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="62" height="62"  />
+       <img src="https://i.pinimg.com/564x/08/86/77/0886779176db12da5565ca4b9541e2b8.jpg" alt="icon" width="62" height="62"  />
       <br>node js
     </td>
     </td>
