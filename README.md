@@ -1,18 +1,17 @@
-<h1 align='center'>👋 Hi, I’m Mohammed Ameen M </h1>
-<h1 align='center'>A Passionate fullstack developer</h1>
-<a href="https://www.instagram.com/amiiiiiii.___/">
-    <img src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-512.png" 
-         alt="Instagram Logo" 
-         width="65" 
-         height="65">
-</a>
 
+# 👋 Hi, I'm Mohammed Ameen M  
 
-- 👀 I’m interested in  playing games and web development. That's a great combination of interests!
-- 🌱 I’m currently learning something specific or have any projects in mind related to web development or gaming, feel free to share more details
-- 💞️ I’m looking to collaborate on  any projects or if there's a specific area where you'd like assistance or collaboration, let me know.
-- 📫 How to reach out to me here if you have any questions or need information related to your interests.
-<h3 align="left">Creative and Technical Proficiency:</h3>
+### 🚀 Fullstack Developer | MERN Stack | WordPress | Shopify  
+
+I’m a passionate **MERN Stack Developer** with experience in building modern, scalable, and user-friendly web applications. I also work with **WordPress** and **Shopify** to deliver custom solutions for businesses.  
+
+---
+
+### 🛠️ Skills & Technologies  
+- **Frontend:** React.js, Next.js, Tailwind CSS, JavaScript, TypeScript  
+- **Backend:** Node.js, Express.js, Nest.js  
+- **Database:** MongoDB, MySQL  
+- **Others:** Firebase, WordPress, Shopify
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
