@@ -95,13 +95,11 @@ I’m a passionate **MERN Stack Developer** with experience in building modern, 
 </table>
 <br><br>
 
-
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohammedAmeenM&theme=blueberry&hide_border=false" alt="GitHub Streak" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammedAmeenM&show_icons=true&theme=blueberry&count_private=true&include_all_commits=true" height="180em"/>
