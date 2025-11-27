@@ -92,10 +92,6 @@ I’m a passionate **MERN Stack Developer** with experience in building modern, 
     </td>
   </tr>
 
-   
-
-  
-
 </table>
 <br><br>
 
