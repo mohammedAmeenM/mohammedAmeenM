@@ -1,9 +1,11 @@
 
 # 👋 Hi, I'm Mohammed Ameen M  
 
-### 🚀 Fullstack Developer | MERN Stack | WordPress | Shopify  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0E75B6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;WordPress+%7C+Shopify+Expert;Building+Real-World+Products" />
+</p>  
 
-I’m a passionate **MERN Stack Developer** with experience in building modern, scalable, and user-friendly web applications. I also work with **WordPress** and **Shopify** to deliver custom solutions for businesses.  
+I’m a passionate **Full Stack Developer** with experience in building modern, scalable, and user-friendly web applications. I also work with **WordPress** and **Shopify** to deliver custom solutions for businesses.  
 
 ---
 
@@ -102,8 +104,6 @@ I’m a passionate **MERN Stack Developer** with experience in building modern, 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedAmeenM&show_icons=true&theme=blueberry" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedAmeenM&layout=compact&theme=blueberry" height="180em"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedAmeenM&bg_color=0D1117&color=00F7FF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" />
 </p>
-
 
