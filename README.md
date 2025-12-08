@@ -32,6 +32,10 @@ I’m a passionate **Full Stack Developer** with experience in building modern, 
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
       <br>React
     </td>
+        <td align="center" width="96">
+      <img src="https://www.staffworx.co.uk/wp-content/uploads/2021/09/nextjs-gif.gif" alt="Next Js" width="48" height="48"/>
+      <br>Next Js
+    </td>
     <td align="center" width="96">
       <img src="https://github.com/thouseef-hamza/thouseef-hamza/assets/119723781/effd598b-922b-42ad-b520-189f1aec55fd" alt="Node JS" width="65" height="65" />
       <br>Node.js
@@ -44,29 +48,44 @@ I’m a passionate **Full Stack Developer** with experience in building modern, 
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux Toolkit" width="62" height="62" />
       <br>Redux Toolkit
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-      <br>Tailwind CSS
+        <td align="center" width="96">
+      <img src="https://logos-olive.vercel.app/static/media/logo1.6e36ca659f74878c1aae.gif" alt="react query" width="48" height="48"/>
+      <br>React Query
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material Ui"  /> 
-      <br>Material UI
+        <td align="center" width="96">
+      <img src="https://logos-olive.vercel.app/static/media/logo4.1ed10673f1c005a593e0.gif" alt="React Native" width="48" height="48"/>
+      <br>React Native
     </td>
-    <td align="center" width="96">
-      <img src="https://logos-olive.vercel.app/static/media/logo7.143934ddf7e1e9bb2ab6.gif" width="65" height="65" alt="HTML5" />
-      <br>HTML5
-    </td>
+
+
+
   </tr>
 
   <!-- Row 2 -->
   <tr>
+        <td align="center" width="96">
+      <img src="https://logos-olive.vercel.app/static/media/logo7.143934ddf7e1e9bb2ab6.gif" width="65" height="65" alt="HTML5" />
+      <br>HTML5
+    </td>
+        <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+      <br>Tailwind CSS
+    </td>
     <td align="center" width="96">
       <img src="https://logos-olive.vercel.app/static/media/logo5.ea6d2052f33f763eee69.gif" width="65" height="65" alt="CSS" />
       <br>CSS
     </td>
+        <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material Ui"  /> 
+      <br>Material UI
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
+    </td>
+        <td align="center" width="96">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2IzYWZkNDM5MGlwam15MWRsaTh2MGt5NHFzdzJjMW81M3Uycm1iMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ri2TUcKlaOcaDBxFpY/giphy.gif" alt="Fire Base" width="48" height="48"/>
+      <br>Fire Base
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="65" height="65" />
@@ -77,10 +96,7 @@ I’m a passionate **Full Stack Developer** with experience in building modern, 
       <br>Git
     </td>
   
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-      <br>C
-    </td>
+
 
   </tr>
 
@@ -115,20 +131,6 @@ I’m a passionate **Full Stack Developer** with experience in building modern, 
       <br>AWS
     </td>
     <td align="center" width="96">
-      <img src="https://logos-olive.vercel.app/static/media/logo1.6e36ca659f74878c1aae.gif" alt="react query" width="48" height="48"/>
-      <br>React Query
-    </td>
-    <td align="center" width="96">
-      <img src="https://logos-olive.vercel.app/static/media/logo4.1ed10673f1c005a593e0.gif" alt="React Native" width="48" height="48"/>
-      <br>React Native
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://logos-olive.vercel.app/static/media/logo6.182f42f63341f8cde42c.gif" alt="storybook" width="48" height="48"/>
-      <br>Story Book
-    </td>
-    <td align="center" width="96">
       <img src="https://logos-olive.vercel.app/static/media/logo8.d7fcc0e469b5d92ffec0.gif" alt="Render" width="48" height="48"/>
       <br>Render
     </td>
@@ -136,14 +138,12 @@ I’m a passionate **Full Stack Developer** with experience in building modern, 
       <img src="https://logos-olive.vercel.app/static/media/logo9.91e6955cd46c5ac9b006.gif" alt="Vercel" width="48" height="48"/>
       <br>Vercel
     </td>
-    <td align="center" width="96">
-      <img src="https://www.staffworx.co.uk/wp-content/uploads/2021/09/nextjs-gif.gif" alt="Next Js" width="48" height="48"/>
-      <br>Next Js
-    </td>
-    <td align="center" width="96">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2IzYWZkNDM5MGlwam15MWRsaTh2MGt5NHFzdzJjMW81M3Uycm1iMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ri2TUcKlaOcaDBxFpY/giphy.gif" alt="Fire Base" width="48" height="48"/>
-      <br>Fire Base
-    </td>
+
+  </tr>
+  <tr>
+
+
+
   </tr>
 </table>
 <br><br>
