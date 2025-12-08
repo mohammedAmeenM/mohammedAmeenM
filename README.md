@@ -12,10 +12,7 @@ I’m a passionate **Full Stack Developer** with experience in building modern, 
 ---
 
 ### 🛠️ Skills & Technologies  
-- **Frontend:** React.js, Next.js, Tailwind CSS, JavaScript, TypeScript  
-- **Backend:** Node.js, Express.js, Nest.js  
-- **Database:** MongoDB, MySQL  
-- **Others:** Firebase, WordPress, Shopify
+
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <!-- Row 1 (MERN Stack First) -->
