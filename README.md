@@ -151,7 +151,32 @@ I’m a passionate **Full Stack Developer** with experience in building modern, 
   <img src="https://streak-stats.demolab.com?user=mohammedAmeenM&theme=blueberry&hide_border=false" alt="GitHub Streak" />
 </p>
 
+
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedAmeenM&bg_color=0D1117&color=00F7FF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Pull%20Shark-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-YOLO-orange?style=for-the-badge&logo=github"/>
+</p>
+
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+  <a href="mailto:amiameen507@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/mohammed-ameen-97757a218/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/mohammedAmeenM" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
