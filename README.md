@@ -14,7 +14,7 @@ I’m a passionate **Full Stack Developer** with experience in building modern, 
 ### 🛠️ Skills & Technologies  
 
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<table align="center" width="450">
   <!-- Row 1 (MERN Stack First) -->
   <tr>
     <td align="center" width="96">
