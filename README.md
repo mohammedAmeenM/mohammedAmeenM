@@ -159,8 +159,6 @@ I’m a passionate **Full Stack Developer** with experience in building modern, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedAmeenM&bg_color=0D1117&color=00F7FF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-Pull%20Shark-blue?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/GitHub-YOLO-orange?style=for-the-badge&logo=github"/>
