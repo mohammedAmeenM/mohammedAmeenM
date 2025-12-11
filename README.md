@@ -53,9 +53,6 @@ I’m a passionate **Full Stack Developer** with experience in building modern, 
       <img src="https://logos-olive.vercel.app/static/media/logo4.1ed10673f1c005a593e0.gif" alt="React Native" width="48" height="48"/>
       <br>React Native
     </td>
-
-
-
   </tr>
 
   <!-- Row 2 -->
