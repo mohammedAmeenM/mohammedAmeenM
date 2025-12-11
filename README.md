@@ -11,7 +11,6 @@ I’m a passionate **Full Stack Developer** with experience in building modern, 
 
 ---
 
-
 ### 🛠️ Skills & Technologies  
 
 <div style="display: flex; align-items: flex-start; align: center">
