@@ -135,9 +135,6 @@ I’m a passionate **Full Stack Developer** with experience in building modern, 
 
   </tr>
   <tr>
-
-
-
   </tr>
 </table>
 <br><br>
