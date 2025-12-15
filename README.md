@@ -9,7 +9,7 @@
 
 I’m a passionate **Full Stack Developer** with experience in building modern, scalable, and user-friendly web applications. I also work with **WordPress** and **Shopify** to deliver custom solutions for businesses.  
 
----
+--- 
 
 ### 🛠️ Skills & Technologies  
 
