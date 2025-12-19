@@ -141,7 +141,12 @@ I’m a passionate **Full Stack Developer** with experience in building modern, 
 
 ### 📊 GitHub Stats
  
-
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=mohammedAmeenM&theme=blueberry&hide_border=false" 
+    alt="GitHub Streak"
+  />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedAmeenM&bg_color=0D1117&color=00F7FF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" />
